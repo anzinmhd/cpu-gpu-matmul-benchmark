@@ -1,4 +1,6 @@
 # File: matmul_single_core.cpp
+## Matrix Multiplication — Single Core (C++17)
+
 Author / Maintainer: anzinmhd  
 Purpose: Documentation for the single-core matrix multiplication implementations contained in matmul_single_core.cpp.
 Language: C++17 (templated, header-only style functions inside single translation unit)
